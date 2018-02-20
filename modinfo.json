@@ -1,0 +1,16 @@
+{
+	"name": "Conan Sexiles Immersive Update ",
+	"description": "\r\nThis is the 1.13 version of the mod \"Conan Sexiles\" created by -oxyg1n- and patched for the CE update 31 by Shendelzare (Kibic - Immersive Sexiles Extensions)\r\n\r\n",
+	"changeNote": "1.13.1\r\n- Updated to for the latest CE patch",
+	"author": "original author: oxyg1n",
+	"authorUrl": "http://www.loverslab.com/user/736719-oxyg1n/",
+	"versionMajor": 1,
+	"versionMinor": 13,
+	"versionBuild": 1,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "1206493209",
+	"steamVisibility": 0,
+	"folderName": "SexilesMod",
+	"revisionNumber": 71487,
+	"snapshotId": 14661
+}
