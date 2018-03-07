@@ -1,16 +1,16 @@
 {
 	"name": "Conan Sexiles Immersive Update ",
-	"description": "\r\nThis is the 1.13 version of the mod \"Conan Sexiles\" created by -oxyg1n- and patched for the CE update 31 by Shendelzare (Kibic - Immersive Sexiles Extensions)\r\n\r\n",
-	"changeNote": "1.13.1\r\n- Updated to for the latest CE patch",
+	"description": "Sexiles 2.0\n\nTEST VERSION",
+	"changeNote": "- whistle button Q changed to O\n- improved interaction with thralls\n- fixed camera flickering\n- corruption removal during sex and orgasm\n- masturbation removes corruption at a decreased rate\n- reworked menu with new looks and new category/subcategory system\n- ejaculation for males during orgasm, stains lasts for 45-50sec\n- ejaculation stains can stack, the textures selected randomly from a pool of 20 different texture, and the location is selected dynamically depending on the positions of the characters and can be applied to most body parts and world objects\n- orgasms triggered automatically -no need to spam the \"O\" button\n- The speed rate of the sexual activity increases the build-up of the arousal making the orgasm faster\n- changed the active/passive order, from now every animation starts as passive (( the \"receiver\" starts the animation and the \"giver\" joins ))\n- new sex animations: solo male masturbation ((3 variant)), cunnilingus, scissor, and cuddling/kissing ((2 variations))\n- new custom emotes ((submissive category with 3 variations)), emotes can be stopped on movement inputs\n- Added items and functions from the Immersive Sexiles Extensions mod:\n( handcuff, leg cuff, collar, leash, nipple chains, strap-on dildo, blindfold, cloth-gag *-and the combinations of the collar/gag/blindfold-* and whip) all crafted at the torturer's worktable with Taskmaster Thrall T2/T3/T4\n- Handcuff equip has an animation call for hands bound behind back and gives stamina penalty\n- Leg cuffs give stamina penalty and cripple\n- Skull Basher stacks a debuff, each stack increases the threshold of the knockout, if the player's HP% drops below this threshold while the debuff is active they pass out unconscious, at max stack the threshold is 60%HP\n- New placeable item: Iron wall ring (if anyone got a better name for it let me know), take a collared player on a leash and interact with the wall ring to tie the victim to it\n- Just as in the previous versions to make an animation played by a thrall as a \"first actor\" you need to target it and press tab, thralls won't be able to play custom emotes and they stop masturbating after the first orgasm\n- Any player who plays the surrender animation or wears a collar can be targeted with the same method but they can be also put into custom emote poses\n- Collars can be removed anytime, and the removal works as a \"safe word\" from any situation ((also the TAB will stop the animations in play no matter the method it was called ))",
 	"author": "original author: oxyg1n",
-	"authorUrl": "http://www.loverslab.com/user/736719-oxyg1n/",
-	"versionMajor": 1,
-	"versionMinor": 13,
-	"versionBuild": 1,
+	"authorUrl": "",
+	"versionMajor": 2,
+	"versionMinor": 0,
+	"versionBuild": 0,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "1206493209",
 	"steamVisibility": 0,
 	"folderName": "SexilesMod",
-	"revisionNumber": 71487,
-	"snapshotId": 14661
+	"revisionNumber": 76125,
+	"snapshotId": 15594
 }
